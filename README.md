@@ -1,2 +1,2 @@
 # MonsterUniversity
-Program to store monster students and cohorts
+Academy Exercise to create a program to store monster students and cohorts
